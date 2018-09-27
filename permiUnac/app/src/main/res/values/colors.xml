@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#031625</color>
+    <color name="colorPrimaryDark">#1976D2</color>
+    <color name="colorAccent">#0e51d8</color>
+    <color name="editText_hint">#f6f7f9</color>
+    <color name="colorblack">#031625</color>
+    <color name="toolbar">#199181</color>
+</resources>

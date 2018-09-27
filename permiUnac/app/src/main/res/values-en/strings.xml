@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">permiUnac</string>
+    <string name="hin_CorreoElectronico">Username</string>
+    <string name="hin_Contraseña">Password</string>
+    <string name="text_button_login">Log in</string>
+    <string name="Registrar">Register</string>
+    <string name="hin_Nombre">Name</string>
+    <string name="hin_Usuario">User</string>
+    <string name="hin_Apellidos">Last Name</string>
+    <string name="createAcountt">Registrarse</string>
+    <string name="text_volver">Back</string>
+    <string name="CreateAcoun">Create Account</string>
+
+
+</resources>

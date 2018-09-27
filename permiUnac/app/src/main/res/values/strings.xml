@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">permiUnac</string>
+    <string name="hin_CorreoElectronico">Correo Electronico</string>
+    <string name="hin_Contraseña">Contraseña</string>
+    <string name="text_button_login">Ingresar</string>
+    <string name="Registrar">Registrarse</string>
+    <string name="hin_Nombre">Nombre</string>
+    <string name="hin_Usuario">Usuario</string>
+    <string name="hin_Apellidos">Apellidos</string>
+    <string name="text_Crear">Crear Cuenta</string>
+    <string name="text_volver">Volver</string>
+    <string name="createAcountt">Sign up</string>
+    <string name="CreateAcoun">Crear Cuenta</string>
+</resources>

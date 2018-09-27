@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "369523873177",
+    "firebase_url": "https://permi-unac.firebaseio.com",
+    "project_id": "permi-unac",
+    "storage_bucket": "permi-unac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:369523873177:android:9da28a0572afea79",
+        "android_client_info": {
+          "package_name": "com.example.asus.permiunac"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "369523873177-okql7l2qkh0h43f3vn4p7dhfeec4pshb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.asus.permiunac",
+            "certificate_hash": "a8636c0bda050ad3ffa77b0aca154701c78012a5"
+          }
+        },
+        {
+          "client_id": "369523873177-0vn7tsipucl5qk7vmg6rv948bus1kabl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBE8JeLcFy_V25O3C0TtnE_N7uWl8w6Mgs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "369523873177-0vn7tsipucl5qk7vmg6rv948bus1kabl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
